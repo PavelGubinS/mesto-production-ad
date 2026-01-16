@@ -3,6 +3,9 @@
 Проект: https://github.com/PavelGubinS/mesto-ad
   
 Команды:
-npm run dev - dev 
+  
+npm run dev - dev
+  
 npm run build - билд
+  
 npm run deploy - деплой
